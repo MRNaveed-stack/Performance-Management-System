@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\middleware",
+    "\\models",
+    "\\routes",
+    "\\services",
+    "\\utils"
+  ],
+  "SelectedNode": "\\utils\\permissions.go",
+  "PreviewInSolutionExplorer": false
+}
