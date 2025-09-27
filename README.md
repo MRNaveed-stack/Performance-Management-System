@@ -21,6 +21,8 @@ A comprehensive backend system developed to manage employee information, attenda
 - Handles **performance cycles** for structured evaluations.
 - Stores **performance scores** for employee assessments.
 - End-to-end workflows controlled through database procedures and functions.
+- Work in progress. Implemented during internship; some sections could not be fully tested due to constraints. 
+- Core logic is functional, but legacy or uneditable parts may contain errors.
 
 ---
 
